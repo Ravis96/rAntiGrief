@@ -1,0 +1,14 @@
+#########################
+# rAntyGrief by Ravis96 #
+#########################
+#true = people can place e.g TNT and turn on it
+#false = e.g TNT are blocked at all.
+#########################
+TNT: false
+TNTBlockMessage: '&4&lTNT &cis disabled in this server!'
+#########################
+LAVA: false
+LavaBlockMessage: '&4&lLAVA &cis disabled in this server!'
+#########################
+CREEPER: false
+#########################
